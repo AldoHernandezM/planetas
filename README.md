@@ -10,4 +10,4 @@ Durante las unidades se aprenderá sobre el uso de:
 + Javascript
 + Frameworks de desarrollo
 + PHP + MySQL
-+ Ajax
++ AjaX
